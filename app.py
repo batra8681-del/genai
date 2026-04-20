@@ -67,7 +67,7 @@ st.markdown("""
      .stApp ,h1, h2, h3, h4, h5, h6, p, label, span { color: #ACBF69 !important; }
 
     .stTextArea textarea {
-        font-size: 16px !important;
+        font-size: 15px !important;
         line-height: 1.5 !important;
         border-radius: 8px !important;
     }
